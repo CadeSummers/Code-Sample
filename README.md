@@ -51,4 +51,3 @@ run pip install requirements.txt if your local machine does not contain said mod
 Given that this is a one-off script, I utilized global variables in order to adjust default parameters so we can search many different companies, dates, and resource id's dynamically. 
 If this technology or script would be expanded, I would scrutinize and adapt this, such that I could maintain encapsulation for each of these functions. 
 The global scope is present for this context, and this context only. Scope matters, encapsulation matters, and this context is the exception, not the norm. 
-"# Code-Sample" 
