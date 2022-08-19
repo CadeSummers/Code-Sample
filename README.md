@@ -1,4 +1,4 @@
-## load_uk_eso.py - grab company and daily records from the natgrid UK ESO API.
+# load_uk_eso.py - grab company and daily records from the natgrid UK ESO API.
 
 This is a program to grab records and information from company auctions from the UK ESO API and create and update a local database with those records.
 
